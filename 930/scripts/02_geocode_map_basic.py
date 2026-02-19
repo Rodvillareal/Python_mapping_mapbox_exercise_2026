@@ -51,7 +51,7 @@ import time             # For adding a small pause between API calls (be polite!
 # EXAMPLE (yours will be different):
 #   MAPBOX_TOKEN = "pk.eyJ1IjoieW91cnVzZXJuYW1lIiwiYSI6ImNsZXhhbXBsZSJ9.abc123"
 
-MAPBOX_TOKEN = "PASTE_YOUR_MAPBOX_TOKEN_HERE"
+MAPBOX_TOKEN = "pk.eyJ1Ijoicm9kdmlsbGFyZWFsIiwiYSI6ImNtMXppcjNtNDA3aG4yam9idjU4eWdxZjUifQ.Rp18zrkadGvSnUpvFKb7AQ"
 
 # Quick check — remind the student if they forgot to set the token
 if MAPBOX_TOKEN == "PASTE_YOUR_MAPBOX_TOKEN_HERE":
